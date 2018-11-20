@@ -121,10 +121,6 @@ latex_elements = {
     # Additional stuff for the LaTeX preamble.
     #
     # 'preamble': '',
-    'preamble': r'''
-\titleformat{\chapter}{\raggedright\huge\bfseries}{第\,\thechapter\,章}{1em}{}
-\usepackage[UTF8, scheme = plain]{ctex}
-'''
     # Latex figure (float) alignment
     #
     # 'figure_align': 'htbp',
