@@ -27,7 +27,7 @@ msgstr "How to Contribute"
 msgid ""
 "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ "
 "是遵循GPLv2协议的开源项目，欢迎大家为项目做贡献。"
-msgstr "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ is a open source project lisensed under GPLv2. Contributions to help BasicCAT grow are appreciated."
+msgstr "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ is an open source project licensed under GPLv2. Contributions to help BasicCAT grow are appreciated."
 
 
 #: ../../source/howtocontribute.rst:6
@@ -42,6 +42,6 @@ msgstr "If you are a user and come across some issues or have some suggestions, 
 
 #: ../../source/howtocontribute.rst:10
 msgid "如果您会翻译，可以帮助翻译网站、文档以及程序的界面，同样通过提交issues来提交请求。"
-msgstr "If you want to translate BasicCAt's website, documentation or its interface, you can also open an issue to apply."
+msgstr "If you want to translate BasicCAT's website, documentation or its interface, you can also open an issue to apply."
 
 

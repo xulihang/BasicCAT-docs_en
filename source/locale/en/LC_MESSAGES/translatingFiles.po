@@ -30,7 +30,7 @@ msgstr "TXT Files"
 
 #: ../../source/translatingFiles.rst:7
 msgid "txt纯文本文件没有额外的标签信息，所有片段都支持合并与拆分。"
-msgstr "TXT files are pure text files. There are no extra tags and all the segments can be merged and splited."
+msgstr "TXT files are pure text files. There are no extra tags and all the segments can be merged and splitted."
 
 
 #: ../../source/translatingFiles.rst:10
@@ -94,7 +94,7 @@ msgstr "When the example story is opened by BasicCAT, the result looks like this
 
 #: ../../source/translatingFiles.rst:104
 msgid "其中c3标签对文字进行了加粗。英文字体一般有很多字重，比如特细、细、常规、粗等，而中文字体一般只有一种常规体。平时在Word里可以设置汉字的加粗是通过软件算法实现的，而IDML中是通过设置字重来实现的。所以，为了保证英译汉时，标签的效果在生成的译文中也有效，BasicCAT采用具有7种字重的思源宋体作为中文的显示字体，并将英文的字重转换为对应的思源宋体的字重。其对应关系如下："
-msgstr "c3 tag add bold font style to the text. English fonts often have many font weights, like Extra Light, Light, Normal and Heavy, while Chinese fonts often have only one regular font weight. The bold style of Chinese characters in word is achieved by software algorithm, but IDML uses font weight to do this. So, to assure that the tags will make effects for English to Chinese translation projects, BasicCAT uses Source Han Serif as IDML's Chinese font. Source Han Serif has 7 font weights. Font weight's names of English fonts will be converted to names in Source Han Serif as follows."
+msgstr "c3 tag add bold font style to the text. English fonts often have many font weights, like Extra Light, Light, Normal and Heavy, while Chinese fonts often have only one regular font weight. The bold style of Chinese characters in Word is achieved by software algorithm, but IDML uses font weight to do this. So, to assure that the tags will make effects for English to Chinese translation projects, BasicCAT uses Source Han Serif as IDML's Chinese font. Source Han Serif has 7 font weights. Font weight's names of English fonts will be converted to names in Source Han Serif as follows."
 
 
 #: ../../source/translatingFiles.rst:106
@@ -191,7 +191,7 @@ msgstr "XLIFF uses abstract placeholder tags inherited from opentag and encapsul
 
 #: ../../source/translatingFiles.rst:133
 msgid "比如对于This is **bold**，在xliff中有两种表示方法。"
-msgstr "For example, there are two ways to represente "This is **bold**." in XLIFF."
+msgstr "For example, there are two ways to represent "This is **bold**." in XLIFF."
 
 
 #: ../../source/translatingFiles.rst:135
@@ -265,7 +265,7 @@ msgstr "PDF Files"
 msgid ""
 "PDF文件是较难处理的格式，可以用Word、ABBYY、Solid Document "
 "Converter等工具将其转换为Word，但原来的格式往往不能得到很好的保留。用Adobe Acrobat可以修改文字，但有诸多限制。"
-msgstr "PDF file is a difficult format to process. It can be converted to docx by tools such as Word, ABBYY, Solid Document Converter, etc. But the original format can not be well preserved. Adobe Acrobat can be used to modify text, but there are many limitations."
+msgstr "PDF file is a difficult format to process. It can be converted to docx by tools such as Word, ABBYY, Solid Document Converter, etc. But the original format cannot be well preserved. Adobe Acrobat can be used to modify text, but there are many limitations."
 
 
 #: ../../source/translatingFiles.rst:204
@@ -397,7 +397,7 @@ msgstr "About how to use Felix, visit its `homepage <http://felix-cat.com/>`_  t
 
 #: ../../source/translatingFiles.rst:262
 msgid "下面讲讲如何利用BasicCAT翻译docx的文本，然后利用felix进行回填。"
-msgstr "Here is how we use BasicCAT to translate the text of dock files and use Felix to fill the translation in Word."
+msgstr "Here is how we use BasicCAT to translate the text of docx files and use Felix to fill the translation in Word."
 
 
 #: ../../source/translatingFiles.rst:264
