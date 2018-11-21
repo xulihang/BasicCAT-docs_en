@@ -20,28 +20,28 @@ msgstr ""
 
 #: ../../source/howtocontribute.rst:2
 msgid "帮助BasicCAT项目发展"
-msgstr "帮助BasicCAT项目发展"
+msgstr "How to Contribute"
 
 
 #: ../../source/howtocontribute.rst:4
 msgid ""
 "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ "
 "是遵循GPLv2协议的开源项目，欢迎大家为项目做贡献。"
-msgstr "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ 是遵循GPLv2协议的开源项目，欢迎大家为项目做贡献。"
+msgstr "`BasicCAT <https://github.com/xulihang/BasicCAT/>`_ is a open source project lisensed under GPLv2. Contributions to help BasicCAT grow are appreciated."
 
 
 #: ../../source/howtocontribute.rst:6
 msgid "如果您会开发软件，可以帮助开发插件、修改项目代码。"
-msgstr "如果您会开发软件，可以帮助开发插件、修改项目代码。"
+msgstr "If you are a developer, you can develop plugins or make a pull request to improve BasicCAT's code."
 
 
 #: ../../source/howtocontribute.rst:8
 msgid "如果您在使用过程中碰到问题，或者有什么建议，欢迎在项目的github页面提交issues。"
-msgstr "如果您在使用过程中碰到问题，或者有什么建议，欢迎在项目的github页面提交issues。"
+msgstr "If you are a user and come across some issues or have some suggestions, you can open an issue in BasicCAT's github repository."
 
 
 #: ../../source/howtocontribute.rst:10
 msgid "如果您会翻译，可以帮助翻译网站、文档以及程序的界面，同样通过提交issues来提交请求。"
-msgstr "如果您会翻译，可以帮助翻译网站、文档以及程序的界面，同样通过提交issues来提交请求。"
+msgstr "If you want to translate BasicCAt's website, documentation or its interface, you can also open an issue to apply."
 
 

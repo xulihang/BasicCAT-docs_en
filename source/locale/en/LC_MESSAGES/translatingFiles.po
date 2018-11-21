@@ -308,7 +308,7 @@ msgstr "Linux and macOS(with homebrew) users can install tesseract-ocr directly.
 
 #: ../../source/translatingFiles.rst:221
 msgid "利用Okapi翻译其它格式文件"
-msgstr "Using Okapi to translate files in other formats"
+msgstr "Using Okapi to Translate Files in Other Formats"
 
 
 #: ../../source/translatingFiles.rst:223
@@ -357,34 +357,34 @@ msgstr "Generate target files from the previously created okapi project"
 
 #: ../../source/translatingFiles.rst:245
 msgid "翻译完成后，把xliff等格式文件放回work文件夹。然后添加manifest.rkm到Rainbow中。"
-msgstr "翻译完成后，把xliff等格式文件放回work文件夹。 "
+msgstr "When the translation is done, put the translated files back into the work folder. Open Rainbow and drag manifest.rkm into it."
 
 
 #: ../../source/translatingFiles.rst:249
 msgid "点击菜单Utilities->Translation Kit Post-processing，可以生成目标文件。"
-msgstr "点击菜单Utilities->Translation Kit Post-processing，可以生成目标文件。"
+msgstr "Click menu "Utilities->Translation Kit Post-processing" to generate target files."
 
 
 #: ../../source/translatingFiles.rst:251
 msgid ""
 "`在此 <http://okapiframework.org/wiki/index.php?title=Filters>`_ "
 "查看Okapi支持的文件格式。"
-msgstr "   "
+msgstr "Visit `here <http://okapiframework.org/wiki/index.php?title=Filters>`_ to see what formats Okapi supports."
 
 
 #: ../../source/translatingFiles.rst:254
 msgid "利用Felix翻译Word文件"
-msgstr "利用Felix翻译Word文件"
+msgstr "Using Felix to Translate Word Files"
 
 
 #: ../../source/translatingFiles.rst:256
 msgid "BasicCAT并没有直接支持Word文档，但可以通过okapi将word转换为xliff来进行翻译。"
-msgstr "BasicCAT并没有直接支持Word文档，但可以通过okapi将word转换为xliff来进行翻译。"
+msgstr "BasicCAT does not directly support Word documents, translation. We can use okapi to convert docx to xliff to translate."
 
 
 #: ../../source/translatingFiles.rst:258
 msgid "另一种方式则是使用Felix CAT。Felix是微软Office上运行的一套宏，可以在Word中利用翻译记忆完成翻译，一切操作都在Word中进行。"
-msgstr "另一种方式则是使用Felix CAT。Felix是微软Office上运行的一套宏，可以在Word中利用翻译记忆完成翻译，一切操作都在Word中进行。"
+msgstr "Another way is to use Felix CAT. Felix is a set of macros running on Microsoft Office. You can translate directly in Word and use translation memory."
 
 
 #: ../../source/translatingFiles.rst:260
@@ -392,31 +392,31 @@ msgid ""
 "关于felix的操作，可以访问\\ `官网 <http://felix-cat.com/>`_\\ "
 "或者阅读这篇文章：`在Office里运行的CAT软件 <http://blog.xulihang.me/CAT-Tools-work-with-"
 "microsoft-office/>`_ 。"
-msgstr "  "
+msgstr "About how to use Felix, visit its `homepage <http://felix-cat.com/>`_  to learn more."
 
 
 #: ../../source/translatingFiles.rst:262
 msgid "下面讲讲如何利用BasicCAT翻译docx的文本，然后利用felix进行回填。"
-msgstr "下面讲讲如何利用BasicCAT翻译docx的文本，然后利用felix进行回填。"
+msgstr "Here is how we use BasicCAT to translate the text of dock files and use Felix to fill the translation in Word."
 
 
 #: ../../source/translatingFiles.rst:264
 msgid "将Word转存为TXT，导入BasicCAT中翻译。"
-msgstr "将Word转存为TXT，导入BasicCAT中翻译。"
+msgstr "Export Word to TXT to translate in BasicCAT."
 
 
 #: ../../source/translatingFiles.rst:265
 msgid "BasicCAT里翻译好后导出翻译记忆，导入Felix。"
-msgstr "BasicCAT里翻译好后导出翻译记忆，导入Felix。"
+msgstr "After the translation is done, export the translation memory to TMX and import it into Felix."
 
 
 #: ../../source/translatingFiles.rst:266
 msgid "通过Word的Felix加载项操作界面进入Felix的设置界面，取消勾选Format标签下的勾选框，这样替换纯文本的翻译记忆时，不会修改原文的格式。"
-msgstr "通过Word的Felix加载项操作界面进入Felix的设置界面，取消勾选Format标签下的勾选框，这样替换纯文本的翻译记忆时，不会修改原文的格式。"
+msgstr "In Word's add-in tab, you can access Felix's interface. In Felix's settings, uncheck the checkboxes in Format Tab. By doing this, when Felix replaces source text with target text, the original formats will be preserved."
 
 
 #: ../../source/translatingFiles.rst:272
 msgid "利用Alt+G快捷键，可以快速地进行译文的替换。"
-msgstr "利用Alt+G快捷键，可以快速地进行译文的替换。"
+msgstr "You can use the shortcut key ALT+G to quickly fill translations."
 
 

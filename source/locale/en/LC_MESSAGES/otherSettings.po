@@ -20,66 +20,66 @@ msgstr ""
 
 #: ../../source/otherSettings.rst:2
 msgid "其它"
-msgstr "其它"
+msgstr "Other"
 
 
 #: ../../source/otherSettings.rst:5
 msgid "外观设置"
-msgstr "外观设置"
+msgstr "Appearance Setting"
 
 
 #: ../../source/otherSettings.rst:7
 msgid "点击菜单Options->Preferences进入设置窗口，点击左边的Appearence，可以进行外观方面的设置。"
-msgstr "点击菜单Options->Preferences进入设置窗口，点击左边的Appearence，可以进行外观方面的设置。"
+msgstr "Click menu "Options->Preferences" to enter the Preferences Window. Click "Appearence" in the left."
 
 
 #: ../../source/otherSettings.rst:9
 msgid "目前仅支持设置编辑区的字体。"
-msgstr "目前仅支持设置编辑区的字体。"
+msgstr "For now, only setting of editing area's font is supported."
 
 
 #: ../../source/otherSettings.rst:14
 msgid "自动备份"
-msgstr "自动备份"
+msgstr "Auto Backup"
 
 
 #: ../../source/otherSettings.rst:16
 msgid "BasicCAT支持自动备份，可以在设置界面设置间隔多少时间备份一次项目文件。备份的文件会保存在项目的bak文件夹里。"
-msgstr "BasicCAT支持自动备份，可以在设置界面设置间隔多少时间备份一次项目文件。备份的文件会保存在项目的bak文件夹里。"
+msgstr "BasicCAT supports auto backup. You can set up its time interval. The  backup files will be stored in the project's bak folder."
 
 
 #: ../../source/otherSettings.rst:21
 msgid "使用Git进行版本控制"
-msgstr "使用Git进行版本控制"
+msgstr "Version Control Using Git"
 
 
 #: ../../source/otherSettings.rst:23
 msgid "BasicCAT自带的Git，支持每次执行保存时在项目文件夹执行一次git commit操作。"
-msgstr "BasicCAT自带的Git，支持每次执行保存时在项目文件夹执行一次git commit操作。"
+msgstr "BasicCAT comes with git and can execute git add and git commit every time the project is saved."
 
 
 #: ../../source/otherSettings.rst:25
 msgid "可以在设置里设置执行git commit的用户信息。"
-msgstr "可以在设置里设置执行git commit的用户信息。"
+msgstr "You can set git commit's user information in Preferences."
 
 
 #: ../../source/otherSettings.rst:29
 msgid "安装Git后，在项目文件夹执行git show可以查看最新一次保存做了哪些修改。你也可以用git reset命令回退到之前的历史版本。"
-msgstr "安装Git后，在项目文件夹执行git show可以查看最新一次保存做了哪些修改。你也可以用git reset命令回退到之前的历史版本。"
+msgstr "You can use git show to see what is the latest changes. You have to install Git on your computer to to this. You can use git reset to return to a previous version."
 
 
 #: ../../source/otherSettings.rst:33
 msgid "更多功能可以通过安装Git桌面客户端来实现。"
-msgstr "更多功能可以通过安装Git桌面客户端来实现。"
+msgstr "More functions can be realized by  installing a git desktop client."
 
 
 #: ../../source/otherSettings.rst:36
 msgid "管理插件"
-msgstr "管理插件"
+msgstr "Managing Plugins"
 
 
 #: ../../source/otherSettings.rst:38
 msgid "BasicCAT目前支持开发机器翻译插件和文件过滤器插件。进入设置界面可以选择插件存放的文件夹，执行插件的增删操作。"
-msgstr "BasicCAT目前支持开发机器翻译插件和文件过滤器插件。进入设置界面可以选择插件存放的文件夹，执行插件的增删操作。"
+msgstr "BasicCAT currently supports two kinds of plugins. One is machine translation plugin and the other is filter plugin. You can set the plugin folder and add or remove plugins in the Preferences."
 
 
