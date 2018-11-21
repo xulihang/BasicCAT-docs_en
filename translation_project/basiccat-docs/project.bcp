@@ -1,0 +1,19 @@
+{
+    "settings": {
+        "termList": [],
+        "tmList": []
+    },
+    "lastEntry": 44,
+    "files": [
+        "index.po",
+        "intro.po",
+        "gettingstarted.po",
+        "advancedFeatures.po",
+        "translatingFiles.po",
+        "howtocontribute.po",
+        "otherSettings.po"
+    ],
+    "source": "zh",
+    "lastFile": "translatingFiles.po",
+    "target": "en"
+}
