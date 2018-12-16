@@ -3,7 +3,7 @@
         "termList": [],
         "tmList": []
     },
-    "lastEntry": 44,
+    "lastEntry": 0,
     "files": [
         "index.po",
         "intro.po",
@@ -14,6 +14,6 @@
         "otherSettings.po"
     ],
     "source": "zh",
-    "lastFile": "translatingFiles.po",
+    "lastFile": "otherSettings.po",
     "target": "en"
 }

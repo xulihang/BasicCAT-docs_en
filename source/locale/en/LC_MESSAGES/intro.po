@@ -50,7 +50,7 @@ msgstr "Language Check"
 
 #: ../../source/intro.rst:11
 msgid "划词取义"
-msgstr "Select words to get meanings"
+msgstr "Select words to get meanings."
 
 
 #: ../../source/intro.rst:12
@@ -110,6 +110,6 @@ msgstr "Support three translation standards: TMX, TBX and SRX"
 
 #: ../../source/intro.rst:23
 msgid "使用Git进行版本控制"
-msgstr "Version Control using Git"
+msgstr "Version Control Using Git"
 
 

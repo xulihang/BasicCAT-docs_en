@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BasicCAT Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-18 15:07+0800\n"
+"POT-Creation-Date: 2018-12-16 15:02+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -59,8 +59,8 @@ msgstr "BasicCAT comes with git and can execute git add and git commit every tim
 
 
 #: ../../source/otherSettings.rst:25
-msgid "可以在设置里设置执行git commit的用户信息。"
-msgstr "You can set git commit's user information in Preferences."
+msgid "可以在设置里设置执行git commit的用户信息。如果要同步到远程仓库，还可以设置密码。"
+msgstr "You can set git commit's user information in Preferences. If you need to sync with remote repositories, you can set a password."
 
 
 #: ../../source/otherSettings.rst:29
