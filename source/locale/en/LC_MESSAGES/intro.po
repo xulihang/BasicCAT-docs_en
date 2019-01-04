@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BasicCAT Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-18 15:07+0800\n"
+"POT-Creation-Date: 2019-01-04 12:03+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,7 +50,7 @@ msgstr "Language Check"
 
 #: ../../source/intro.rst:11
 msgid "划词取义"
-msgstr "Select words to get meanings."
+msgstr "Select words to get meanings"
 
 
 #: ../../source/intro.rst:12
@@ -79,37 +79,50 @@ msgstr "Export bilingual paragraph files"
 
 
 #: ../../source/intro.rst:17
+msgid "导出带备注的Markdown文件"
+msgstr "Export to markdown with notes"
+
+
+#: ../../source/intro.rst:18
 msgid "句段分割与合并"
 msgstr "Merge and split segments freely"
 
 
-#: ../../source/intro.rst:18
+#: ../../source/intro.rst:19
 msgid "调用多种在线词典"
 msgstr "Online Dictionaries Integration"
 
 
-#: ../../source/intro.rst:19
+#: ../../source/intro.rst:20
 msgid "常见机器翻译服务的API调用"
 msgstr "Support Machine Translation Services Provided by Google, Microsoft, etc."
 
 
-#: ../../source/intro.rst:20
+#: ../../source/intro.rst:21
 msgid "支持利用翻译记忆与机器翻译进行全文预翻译"
 msgstr "Pretranslate based on translation memory and machine translation"
 
 
-#: ../../source/intro.rst:21
+#: ../../source/intro.rst:22
 msgid "支持常见源文件格式：txt, idml, xliff, gettext po"
 msgstr "Support  common file formats: TXT, idml, xliff, gettext Po"
 
 
-#: ../../source/intro.rst:22
+#: ../../source/intro.rst:23
 msgid "支持翻译记忆标准TMX、术语管理标准TBX和句段分割标准SRX"
 msgstr "Support three translation standards: TMX, TBX and SRX"
 
 
-#: ../../source/intro.rst:23
-msgid "使用Git进行版本控制"
-msgstr "Version Control Using Git"
+#: ../../source/intro.rst:24
+msgid "支持在线共享翻译记忆与术语"
+msgstr "Sharing translation memory and term online"
 
+
+#: ../../source/intro.rst:25
+msgid "使用Git进行版本控制与团队协作"
+msgstr "Version Control and Collaboration Using Git"
+
+
+#~ msgid "使用Git进行版本控制"
+#~ msgstr ""
 
