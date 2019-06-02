@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: BasicCAT Documentation \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-04 12:03+0800\n"
+"POT-Creation-Date: 2019-06-02 15:16+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,8 +29,8 @@ msgstr "Machine Translation"
 
 
 #: ../../source/advancedFeatures.rst:7
-msgid "BasicCAT预置了以下11种机器翻译引擎的API的支持："
-msgstr "BasicCAT has a built-in support for 7 machine translation services:"
+msgid "BasicCAT预置了以下12种机器翻译引擎的API的支持："
+msgstr "BasicCAT has a built-in support for 12 machine translation services:"
 
 
 #: ../../source/advancedFeatures.rst:9
@@ -187,8 +187,8 @@ msgstr "When a segment is translated and you press "Enter" to switch to the next
 
 
 #: ../../source/advancedFeatures.rst:83
-msgid "要使用语言检查，你需要先下载LanguageTool。"
-msgstr "To use language check, you need to download languagetool first."
+msgid "要使用语言检查，你可以选择直接使用LanguageTool的API（默认地址：https://languagetool.org/api/v2/check），或者下载LanguageTool后在本地运行。"
+msgstr "To use language check, you can either use the API provided by LanguageTool directly (default address: https://languagetool.org/api/v2/check), or download LanguageTool and run it locally."
 
 
 #: ../../source/advancedFeatures.rst:85
@@ -219,9 +219,9 @@ msgid "除此之外，你还要设置启用语言检查。点击菜单Options->P
 msgstr "In addition, you need to check the "enable language tool" checkbox in settings. "
 
 
-#: ../../source/advancedFeatures.rst:97
-msgid "如果你想使用运行在远程服务器的LanguageTool，可以通过修改链接来调用。"
-msgstr "You can change the link to use Language Tool running on a remote server."
+#: ../../source/advancedFeatures.rst:97 ../../source/advancedFeatures.rst:125
+msgid "你还可以设置每次以下拉列表形式给出建议的最大数量，以免有的时候显示的建议太多。"
+msgstr "You can also set the maximum dropdown suggestions to avoid  showing too many suggestions."
 
 
 #: ../../source/advancedFeatures.rst:101
@@ -279,104 +279,104 @@ msgid "如果想使用运行在远程服务器的corenlp，可以通过修改链
 msgstr "Change the link to use a remote server."
 
 
-#: ../../source/advancedFeatures.rst:126
+#: ../../source/advancedFeatures.rst:128
 msgid "快速填充"
 msgstr "Quickfill"
 
 
-#: ../../source/advancedFeatures.rst:128
+#: ../../source/advancedFeatures.rst:130
 msgid ""
 "翻译过程中我们常常需要输入特殊的符号，或者需要多次输入同一串文本。BasicCAT支持定义快速填充项目，在翻译时使用快捷键Ctrl+Q或者点击菜单Edit->Show"
 " quickfill dropdown来显示快捷输入用的下拉列表。如果匹配到术语，也可以设置包含进去。"
 msgstr "We often have to input special characters or the same text many times. BasicCAT supports quickfill. You can use the shortcut key CTRL+Q or click the menu "Edit-show quick fill dropdown" to display a dropdown list of quickfill items. Matched terms can also be included."
 
 
-#: ../../source/advancedFeatures.rst:132
+#: ../../source/advancedFeatures.rst:134
 msgid "快速填充的设置需要点击菜单Project->Project Settings，切换到Quickfill栏目。"
 msgstr "Click menu "Project->Project Settings" to set up quickfill."
 
 
-#: ../../source/advancedFeatures.rst:137
+#: ../../source/advancedFeatures.rst:139
 msgid "自动更正"
 msgstr "AutoCorrect"
 
 
-#: ../../source/advancedFeatures.rst:139
+#: ../../source/advancedFeatures.rst:141
 msgid "自动更正是借鉴自Word的一项功能，可以检测输入的内容，对内容进行修正。比如英译汉时需要输入中文的标点符号，可以设置错误地输入英文标点符号时自动更正为中文标点。我们也可以用它来快速输入内容。比如rst是restructuredText的缩写，设置自动更正后，每次输入rst，内容就会自动变成restructuredText。"
 msgstr "AutoCorrect is inspired by Microsoft Word's function. It can detect the inputed text and correct spelling errors. For example, we need to input Chinese punctuations when doing an English to Chinese translation and autocorrect can replace English punctuations to Chinese punctuations. We can also use it to input content quickly. For example, "rst" is the abbreviation of "restructuredText". When AutoCorrect is setuped, we can input "rst" the get "restructuredText"."
 
 
-#: ../../source/advancedFeatures.rst:143
+#: ../../source/advancedFeatures.rst:145
 msgid "点击菜单Project->Project Settings，切换到AutoCorrect栏目进行设置。"
 msgstr "Click menu "Project->Project Settings" to set up AutoCorrect."
 
 
-#: ../../source/advancedFeatures.rst:148
+#: ../../source/advancedFeatures.rst:150
 msgid "导出Word以供审校"
 msgstr "Export Word for review"
 
 
-#: ../../source/advancedFeatures.rst:150
+#: ../../source/advancedFeatures.rst:152
 msgid "BasicCAT支持导出翻译的内容至Word中，利用Word的审校功能进行审校。"
 msgstr "BasicCAT can export translated contents to docx files and use Word to review."
 
 
-#: ../../source/advancedFeatures.rst:152
+#: ../../source/advancedFeatures.rst:154
 msgid "在所需导出的文件上右键，点击Export to->docx for review，可以导出docx文件。"
 msgstr "Right click on the file and click "Export to docx for review" to export the docx file."
 
 
-#: ../../source/advancedFeatures.rst:158
+#: ../../source/advancedFeatures.rst:160
 msgid "完成审校后，可以从Word文件将修改结果导回。在文件名上右键，点击Import form review。"
 msgstr "When the review is done, you can import the result back. Right click on the file and click "Import from review"."
 
 
-#: ../../source/advancedFeatures.rst:162
+#: ../../source/advancedFeatures.rst:164
 msgid "你可以一条一条地重新确认，也可以直接用审校的内容替换原来的翻译。"
 msgstr "You can check the imported result one by one or replace the original translation with the review directly."
 
 
-#: ../../source/advancedFeatures.rst:167
+#: ../../source/advancedFeatures.rst:169
 msgid "导出双语对照文本"
 msgstr "Export bilingual paragraph files"
 
 
-#: ../../source/advancedFeatures.rst:169
+#: ../../source/advancedFeatures.rst:171
 msgid "在所需导出的文件上右键，点击Export to->bi-paragraphs，可以导出双语段落对照文本。"
 msgstr "Right on the file, click "Export to bi-paragraphs" to do this."
 
 
-#: ../../source/advancedFeatures.rst:174
+#: ../../source/advancedFeatures.rst:176
 msgid "导出带备注的Markdown文件"
 msgstr "Export to markdown with notes"
 
 
-#: ../../source/advancedFeatures.rst:176
+#: ../../source/advancedFeatures.rst:178
 msgid "和上一条操作办法相近，在所需导出的文件上右键，点击Export to->Markdown with notes，可以导出Markdown文件。"
 msgstr "Like the previous export, right click on the filename and click export to->markdown with notes to get a markdown file."
 
 
-#: ../../source/advancedFeatures.rst:178
+#: ../../source/advancedFeatures.rst:180
 msgid "Markdown文件可以使用\\ `Pandoc <http://www.pandoc.org/>`_\\ 进一步转换成Word文件。"
 msgstr "Markdown files can be converted to word files later using `Pandoc <http://www.pandoc.org/>`_."
 
 
-#: ../../source/advancedFeatures.rst:182
+#: ../../source/advancedFeatures.rst:184
 msgid "搜索与替换"
 msgstr "Search and Replace"
 
 
-#: ../../source/advancedFeatures.rst:184
+#: ../../source/advancedFeatures.rst:186
 msgid "点击菜单Edit->Search and Replace进入搜索与替换对话框，可以检索原文和译文的内容。支持使用正则表达式。"
 msgstr "Click menu "Edit->Search and Replace" to open the Search and Replace Dialog. You can search in the source or the target text. Regular expressions are supported."
 
 
-#: ../../source/advancedFeatures.rst:186
+#: ../../source/advancedFeatures.rst:188
 msgid "下面是利用正则表达式将英文引号替换成中文引号的例子。"
 msgstr "Below is an example of replacing English quotation marks to Chinese quotation marks."
 
 
-#: ../../source/advancedFeatures.rst:190
+#: ../../source/advancedFeatures.rst:192
 msgid ""
 "关于正则表达式，可以参考\\ `这里 <http://www.runoob.com/regexp/regexp-"
 "tutorial.html>`_\\ 的教程。"
@@ -387,5 +387,14 @@ msgstr "You can learn more about regular expressions at this `website <http://ww
 #~ msgstr ""
 
 #~ msgid "`搜狗 <http://ai.sogou.com/ai-docs/api/fanyi>`_"
+#~ msgstr ""
+
+#~ msgid "BasicCAT预置了以下11种机器翻译引擎的API的支持："
+#~ msgstr ""
+
+#~ msgid "要使用语言检查，你需要先下载LanguageTool。"
+#~ msgstr ""
+
+#~ msgid "如果你想使用运行在远程服务器的LanguageTool，可以通过修改链接来调用。"
 #~ msgstr ""
 
