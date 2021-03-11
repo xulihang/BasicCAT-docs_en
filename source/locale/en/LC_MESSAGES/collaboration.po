@@ -30,7 +30,7 @@ msgstr "Sharing translation memory and term"
 
 #: ../../source/collaboration.rst:7
 msgid "利用BasicCAT的服务器端程序，可以架设用于共享翻译记忆和术语的服务。该程序可以在BasicCAT的下载页面获取。"
-msgstr "The BasicCAT's server program is needed to setup a translatin memory and term sharing service. The program is available in the BasicCAT's download page."
+msgstr "The BasicCAT's server program is needed to setup a translation memory and term sharing service. The program is available in the BasicCAT's download page."
 
 
 #: ../../source/collaboration.rst:9
